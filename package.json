@@ -1,0 +1,22 @@
+{
+    "name": "trakkit-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bushev/trakkit-api.git"
+    },
+    "author": "Yury Bushev",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/bushev/trakkit-api/issues"
+    },
+    "homepage": "https://github.com/bushev/trakkit-api#readme",
+    "dependencies": {
+        "faye": "1.2.4"
+    }
+}
