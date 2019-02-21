@@ -1,4 +1,4 @@
-# trakkit-api
+# Trakkit™ Public API Node.js library | [trakkitfleet.com](https://trakkitfleet.com/)
 
 ## Usage
 
